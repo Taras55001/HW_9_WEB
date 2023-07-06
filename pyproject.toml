@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "hw-8"
+version = "0.1.0"
+description = ""
+authors = ["taras <taras5500@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+faker = "^18.10.1"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
+lxml = "^4.9.2"
+scrapy = "^2.9.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
