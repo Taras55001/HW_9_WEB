@@ -12,6 +12,8 @@ beautifulsoup4 = "^4.12.2"
 requests = "^2.31.0"
 lxml = "^4.9.2"
 scrapy = "^2.9.0"
+scrapyscript = "^1.1.5"
+mongoengine = "^0.27.0"
 
 
 
